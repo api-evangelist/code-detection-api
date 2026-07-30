@@ -1,4 +1,16 @@
 aid: code-detection-api
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/code-detection-api.png
 name: Code Detection API
 description: "Detect, label, format and enrich the code in your app or in your data pipeline"
 url: https://codedetectionapi.runtime.dev
