@@ -39,7 +39,6 @@ apis:
   - name: Code Detection API
     description: "Detect, label, format and enrich the code in your app or in your data pipeline"
     humanURL: https://codedetectionapi.runtime.dev
-    baseURL: https://codedetectionapi.runtime.dev
     tags:
       - Text Analysis
     properties:
